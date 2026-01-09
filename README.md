@@ -1,6 +1,6 @@
 ## PHPU_2.6.1
 
-PHPU_2.6.1 is a PHP and mysql based CMS that has been written procedurally.
+PHPU_2.6.1 is a PHP and MySQL based CMS that has been written procedurally.
 It has a simple structure, so it can easily be expanded.
 
 *Technologies*
