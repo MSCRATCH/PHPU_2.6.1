@@ -18,5 +18,6 @@ It has a simple structure, so it can easily be expanded.
 2. *Create tables*: Create the necessary tables using the provided SQL code.
 3. *Create user account*: Sign up for a new user account using the registration form.
 4. *Assign administrator privileges*: Change the user level to `administrator` in phpMyAdmin.
+5. 
 
-*Future Plans*
+If any bugs appear… it’s probably because I was listening to Nirvana’s Dumb on repeat while coding ;)
