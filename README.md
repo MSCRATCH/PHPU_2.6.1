@@ -25,9 +25,9 @@ PHPU_2.6.1 is a lightweight, procedural PHP and MySQL based CMS designed for sim
 4. *Assign administrator privileges*: Change the user level to `administrator` in phpMyAdmin.
 
 
->If you want to redirect your domain directly to the public directory, then delete the `.htaccess` file in the root directory. Otherwise, simply redirect the domain to the project folder.
+If you want to redirect your domain directly to the public directory, then delete the `.htaccess` file in the root directory. Otherwise, simply redirect the domain to the project folder.
 
->This project includes the free version of Font Awesome. All icons and assets are subject to the Font Awesome license, which applies independently of PHPU_2.6.1’s license. Users are responsible for complying with Font Awesome’s terms.
+This project includes the free version of Font Awesome. All icons and assets are subject to the Font Awesome license, which applies independently of PHPU_2.6.1’s license. Users are responsible for complying with Font Awesome’s terms.
 
 
 If any bugs appear, it’s probably because I was listening to Dumb by Nirvana on repeat while coding :)
