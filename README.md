@@ -1,7 +1,6 @@
 ## PHPU_2.6.1
 
-PHPU_2.6.1 is a PHP and MySQL based CMS that has been written procedurally.
-It has a simple structure, so it can easily be expanded.
+PHPU_2.6.1 is a lightweight, procedural PHP and MySQL based CMS designed for simplicity, flexibility, and security. Its clean structure makes it easy to extend, customize, and maintain.
 
 *Technologies*
 
@@ -11,6 +10,11 @@ It has a simple structure, so it can easily be expanded.
 ![HTML](https://img.shields.io/badge/HTML-5-orange.svg)
 ![CSS](https://img.shields.io/badge/CSS-3-blue.svg)
 ![GIMP](https://img.shields.io/badge/GIMP-2.x-blue.svg)
+
+*Features*
+1. *Web server*: Apache with `mod_rewrite enabled` enabled.
+2. *PHP*: version 8.2–8.4.
+3. *Database*: MySQL with mysqli extension enabled.
 
 *Requirements*
 1. *Web server*: Apache with `mod_rewrite enabled` enabled.
