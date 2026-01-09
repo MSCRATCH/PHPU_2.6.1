@@ -18,6 +18,6 @@ It has a simple structure, so it can easily be expanded.
 2. *Create tables*: Create the necessary tables using the provided SQL code.
 3. *Create user account*: Sign up for a new user account using the registration form.
 4. *Assign administrator privileges*: Change the user level to `administrator` in phpMyAdmin.
-5. 
+5. *Include font awesome*: Download the free version of font awesome and add the CSS and Webfonts folders to `public/fontawesome`.
 
 If any bugs appear… it’s probably because I was listening to Nirvana’s Dumb on repeat while coding ;)
