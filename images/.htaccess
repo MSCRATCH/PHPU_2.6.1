@@ -1,0 +1,12 @@
+<FilesMatch "\.(php|phtml|phar|cgi|pl|exe|sh)$">
+Require all denied
+</FilesMatch>
+
+<FilesMatch ".*">
+<If "%{REQUEST_FILENAME} =~ /\.(jpe?g|png)$/i">
+Require all granted
+</If>
+<Else>
+Require all denied
+</Else>
+</FilesMatch>
